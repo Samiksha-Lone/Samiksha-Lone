@@ -41,8 +41,7 @@ Focused on solving real-world problems using **clean code + intelligent systems*
 
 ### 🧠 Resume Analyzer (AI)
 AI-powered platform for ATS scoring, resume feedback, and skill-gap analysis  
-**Tech:** React • Node.js • MongoDB • Gemini API  
-🔗 https://resume-analyzer-4iifqtvha-samiksha-lone.vercel.app  
+**Tech:** React • Node.js • MongoDB • Ollama
 
 ---
 
