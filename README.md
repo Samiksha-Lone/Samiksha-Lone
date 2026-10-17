@@ -1,96 +1,91 @@
-# Hey there! 👋 I'm Samiksha Lone
+# Hi, I'm Samiksha Lone 👋
 
-<div align="center">
+**Software Engineer | Full-Stack Development | AI Applications**
 
-### 🚀 AI Product Engineer | Full-Stack (MERN) | Building scalable intelligent web apps
+I build web applications with a focus on backend development, practical problem-solving, and useful product features. My experience includes developing REST APIs, working with databases, integrating third-party services, and maintaining existing applications.
 
-[Portfolio](https://samiksha-lone.vercel.app) • [LinkedIn](https://linkedin.com/in/samiksha-lone) • [Email](mailto:samikshalone2@gmail.com)
+Currently focused on strengthening my software engineering fundamentals and building reliable, maintainable applications.
 
-</div>
-
----
-
-## ⚡ What I Do
-
-- Build **AI-powered full-stack applications** using MERN  
-- Integrate **LLMs & APIs** into real-world products  
-- Design **scalable backend systems** with performance optimization  
-
----
-
-## 🚀 About Me
-
-I build products—not just projects.
-
-Currently working as a **Software Developer Intern**, where I develop backend systems, AI tools, and performance-focused architectures.  
-Focused on solving real-world problems using **clean code + intelligent systems**.
+<p align="left">
+  <a href="https://samiksha-lone.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/samiksha-lone">LinkedIn</a> ·
+  <a href="mailto:samikshalone2@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, TypeScript, Tailwind, Vite  
-**Backend:** Node.js, Express  
-**Databases:** MongoDB, PostgreSQL, Redis  
-**AI:** OpenAI / Gemini APIs, LLM Integrations  
-**Tools:** Git, Postman, Vercel, Firebase  
+**Languages**  
+JavaScript · TypeScript · SQL
+
+**Frontend**  
+React · Next.js · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · REST APIs
+
+**Databases**  
+MongoDB · MySQL · PostgreSQL
+
+**Tools & Integrations**  
+Git · GitHub · Postman · Docker · Vercel · LLM APIs
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 Resume Analyzer (AI)
-AI-powered platform for ATS scoring, resume feedback, and skill-gap analysis  
-**Tech:** React • Node.js • MongoDB • Ollama
+### 🧠 ScoreSync AI — Resume Analyzer
+An AI-powered application for resume analysis, job description matching, and identifying skill gaps.
 
----
+**Tech:** React · Node.js · Express.js · MongoDB
 
-### 📊 GrowthOS — Productivity System
-Data-driven productivity app with tracking, analytics, and behavior insights  
-**Tech:** React • Node.js • MongoDB • Recharts  
-🔗 https://growth-os-chi.vercel.app  
 
----
+### 🎓 Alumni Connect
+A networking platform connecting students and alumni through messaging, job-related features, authentication, and role-based access.
+
+**Tech:** MERN Stack · JWT
+
+[View Live Demo →](https://alumni-connect-frontendd.vercel.app)
+
+### 📊 GrowthOS
+A productivity application with activity tracking, analytics, and data visualization.
+
+**Tech:** React · Node.js · MongoDB · Recharts
+
+[View Live Demo →](https://growth-os-chi.vercel.app)
 
 ### 🤖 Smart AI Articles
-AI content generation pipeline with queue-based processing and optimization  
-**Tech:** Node.js • Redis • BullMQ • OpenAI  
-🔗 https://beyondchats-frontend-beta.vercel.app  
+An AI-powered content generation application exploring background processing and asynchronous task management.
 
----
+**Tech:** Node.js · Redis · BullMQ · OpenAI
 
-### 🌐 Alumni Connect
-Real-time platform connecting students & alumni with messaging and job features  
-**Tech:** MERN • Socket.IO • JWT  
-🔗 https://alumni-connect-frontendd.vercel.app  
+[View Live Demo →](https://beyondchats-frontend-beta.vercel.app)
 
 ---
 
 ## 💼 Experience
 
-**Software Developer Intern — SOFTCADD Technologies**
+**Software Developer Intern · Softcadd Technologies**  
+*November 2025 – Present*
 
-- Built full-stack system with **Razorpay payment integration**
-- Developed **AI tools** (resume optimizer, JD generator)
-- Implemented **Redis-based background jobs** for performance
-- Designed recruiter dashboard with **analytics & automation**
-
----
-
-## 📈 Current Focus
-
-- Building **production-grade AI applications**  
-- Improving **system design & scalability**  
-- Exploring advanced **LLM integration patterns**  
+- Develop and maintain REST APIs and database schemas.
+- Work on backend functionality and third-party integrations.
+- Debug application issues and improve existing workflows.
+- Contribute to ongoing feature development and application maintenance.
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 Current Focus
 
-- Portfolio: https://samiksha-lone.vercel.app  
-- LinkedIn: https://linkedin.com/in/samiksha-lone  
-- Email: samikshalone2@gmail.com  
+- Data structures, algorithms, and problem-solving
+- Backend engineering and system design
+- Writing maintainable code and building reliable applications
+- Exploring practical AI integrations
+- Contributing to collaborative software projects
 
 ---
 
-⭐ Focused on building impactful, real-world AI products
+<p align="center">
+  <i>Building useful things, learning through experience, and getting better at the craft.</i>
+</p>
