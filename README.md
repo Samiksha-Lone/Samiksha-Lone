@@ -17,7 +17,7 @@ Currently focused on strengthening my software engineering fundamentals and buil
 ## 🛠️ Tech Stack
 
 **Languages**  
-JavaScript · TypeScript · SQL
+JavaScript · TypeScript · Java · SQL
 
 **Frontend**  
 React · Next.js · Tailwind CSS
@@ -26,10 +26,13 @@ React · Next.js · Tailwind CSS
 Node.js · Express.js · REST APIs
 
 **Databases**  
-MongoDB · MySQL · PostgreSQL
+MongoDB · MySQL · Supabase
 
-**Tools & Integrations**  
-Git · GitHub · Postman · Docker · Vercel · LLM APIs
+**Tools & Platforms**  
+Git · GitHub · Postman · Docker · Vercel · Render
+
+**Integrations**  
+LLM APIs · Razorpay
 
 ---
 
@@ -49,11 +52,12 @@ A networking platform connecting students and alumni through messaging, job-rela
 [View Live Demo →](https://alumni-connect-frontendd.vercel.app)
 
 ### 📊 GrowthOS
-A productivity application with activity tracking, analytics, and data visualization.
 
-**Tech:** React · Node.js · MongoDB · Recharts
+A full-stack productivity app for task planning, habit tracking, goal management, daily reflections, and productivity insights.
 
-[View Live Demo →](https://growth-os-chi.vercel.app)
+**Tech:** React · TypeScript · Node.js · Express.js · MongoDB · Recharts
+
+[Live Demo →](https://growth-os-chi.vercel.app)
 
 ### 🤖 Smart AI Articles
 An AI-powered content generation application exploring background processing and asynchronous task management.
