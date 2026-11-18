@@ -1,10 +1,10 @@
 # Hi, I'm Samiksha Lone 👋
 
-**Software Engineer | Full-Stack Development | AI Applications**
+**Software Engineer | Backend & Full-Stack Development**
 
-I build web applications with a focus on backend development, practical problem-solving, and useful product features. My experience includes developing REST APIs, working with databases, integrating third-party services, and maintaining existing applications.
+I build web applications with a focus on backend engineering, practical problem-solving, and useful product features. My experience includes developing REST APIs, designing database-backed workflows, implementing authentication and authorization, integrating third-party services, and building AI-powered applications.
 
-Currently focused on strengthening my software engineering fundamentals and building reliable, maintainable applications.
+I'm interested in backend systems, scalable application architecture, and practical applications of AI and LLMs.
 
 <p align="left">
   <a href="https://samiksha-lone.vercel.app">Portfolio</a> ·
@@ -14,79 +14,67 @@ Currently focused on strengthening my software engineering fundamentals and buil
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**  
-JavaScript · TypeScript · Java · SQL
+Languages — JavaScript · TypeScript · Java · SQL
 
-**Frontend**  
-React · Next.js · Tailwind CSS
+Frontend — React · TypeScript · Next.js · Tailwind CSS · Vite · React Router
 
-**Backend**  
-Node.js · Express.js · REST APIs
+Backend & APIs — Node.js · Express.js · REST APIs · JWT · Socket.IO · Supabase
 
-**Databases**  
-MongoDB · MySQL · Supabase
+Data & AI — MongoDB · PostgreSQL · MySQL · SQL · Google Gemini API · Claude API · LLM Integration
 
-**Tools & Platforms**  
-Git · GitHub · Postman · Docker · Vercel · Render
-
-**Integrations**  
-LLM APIs · Razorpay
+DevOps & Tools — Docker · Docker Compose · Redis · BullMQ · Prisma · Git · GitHub · Postman · Vercel · Render · Razorpay API
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 ScoreSync AI — Resume Analyzer
-An AI-powered application for resume analysis, job description matching, and identifying skill gaps.
+### 📊 SEO Automation Dashboard
 
-**Tech:** React · Node.js · Express.js · MongoDB
+An AI-powered SEO auditing platform that processes website audits asynchronously, analyzes technical SEO issues, generates AI-driven insights, and produces downloadable PDF reports.
 
+**Tech:** Next.js · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Claude API · Puppeteer · Supabase
+
+[GitHub Repository](https://github.com/Samiksha-Lone/seo-dashboard) · [Live Demo](https://seo-dashboard-flame-five.vercel.app/)
 
 ### 🎓 Alumni Connect
-A networking platform connecting students and alumni through messaging, job-related features, authentication, and role-based access.
 
-**Tech:** MERN Stack · JWT
+A full-stack networking platform connecting students and alumni through searchable profiles, mentorship, job opportunities, campus events, and real-time messaging.
 
-[View Live Demo →](https://alumni-connect-frontendd.vercel.app)
+**Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · Socket.IO · JWT · Docker
 
-### 📊 GrowthOS
+[GitHub Repository](https://github.com/Samiksha-Lone/alumni-connect) · [Live Demo](https://alumni-connect-frontendd.vercel.app)
 
-A full-stack productivity app for task planning, habit tracking, goal management, daily reflections, and productivity insights.
+### 🧠 ScoreSync AI — Resume Analyzer
 
-**Tech:** React · TypeScript · Node.js · Express.js · MongoDB · Recharts
+An AI-powered application for resume analysis, job description matching, and identifying skill gaps.
 
-[Live Demo →](https://growth-os-chi.vercel.app)
-
-### 🤖 Smart AI Articles
-An AI-powered content generation application exploring background processing and asynchronous task management.
-
-**Tech:** Node.js · Redis · BullMQ · OpenAI
-
-[View Live Demo →](https://beyondchats-frontend-beta.vercel.app)
+**Tech:** React · Node.js · Express.js · MongoDB · Gemini API
 
 ---
 
 ## 💼 Experience
 
 **Software Developer Intern · Softcadd Technologies**  
-*November 2025 – Present*
+*November 2025 – November 2026 · Remote*
 
-- Develop and maintain REST APIs and database schemas.
-- Work on backend functionality and third-party integrations.
-- Debug application issues and improve existing workflows.
-- Contribute to ongoing feature development and application maintenance.
+- Contributed to multiple software projects, developing frontend features with React and TypeScript and implementing backend workflows using Node.js, Express.js, and Supabase.
+- Developed and integrated REST APIs for authentication, application workflows, database operations, and frontend-backend communication.
+- Worked with MongoDB and Supabase on data models, CRUD operations, queries, and database-backed workflows.
+- Integrated Google Gemini and Razorpay APIs for AI-powered features and payment processing workflows.
+- Enhanced product features and resolved frontend, backend, and API integration issues through testing and debugging.
+- Collaborated using Git and GitHub for code integration, testing, and release-related changes.
 
 ---
 
 ## 🎯 Current Focus
 
-- Data structures, algorithms, and problem-solving
-- Backend engineering and system design
-- Writing maintainable code and building reliable applications
-- Exploring practical AI integrations
-- Contributing to collaborative software projects
+- Strengthening data structures, algorithms, and problem-solving.
+- Deepening backend engineering and system design knowledge.
+- Learning Python and practical AI/LLM engineering.
+- Exploring RAG, LLM applications, and AI-powered workflows.
+- Building reliable, maintainable, and well-structured software.
 
 ---
 
