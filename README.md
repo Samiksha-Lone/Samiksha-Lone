@@ -12,21 +12,20 @@ I'm interested in backend systems, scalable application architecture, and practi
   <a href="mailto:samikshalone2@gmail.com">Email</a>
 </p>
 
----
 
 ## 🛠️ Technical Skills
 
-Languages — JavaScript · TypeScript · Java · SQL
+**Languages** — JavaScript · TypeScript · Java · SQL
 
-Frontend — React · TypeScript · Next.js · Tailwind CSS · Vite · React Router
+**Frontend** — React · Next.js · Vite · Tailwind CSS · React Router
 
-Backend & APIs — Node.js · Express.js · REST APIs · JWT · Socket.IO · Supabase
+**Backend & APIs** — Node.js · Express.js · REST APIs · JWT · Socket.IO · Supabase
 
-Data & AI — MongoDB · PostgreSQL · MySQL · SQL · Google Gemini API · Claude API · LLM Integration
+**Databases & AI** — MongoDB · PostgreSQL · MySQL · Google Gemini API · Claude API · LLM Integration
 
-DevOps & Tools — Docker · Docker Compose · Redis · BullMQ · Prisma · Git · GitHub · Postman · Vercel · Render · Razorpay API
+**Tools & Infrastructure** — Git · GitHub · Docker · Docker Compose · Redis · BullMQ · Prisma · Postman · Vercel · Render
 
----
+**Integrations** — Razorpay API
 
 ## 🚀 Featured Projects
 
@@ -52,11 +51,9 @@ An AI-powered application for resume analysis, job description matching, and ide
 
 **Tech:** React · Node.js · Express.js · MongoDB · Gemini API
 
----
-
 ## 💼 Experience
 
-**Software Developer Intern · Softcadd Technologies**  
+**Software Developer Intern · Softcadd Technologies**
 *November 2025 – November 2026 · Remote*
 
 - Contributed to multiple software projects, developing frontend features with React and TypeScript and implementing backend workflows using Node.js, Express.js, and Supabase.
@@ -66,8 +63,6 @@ An AI-powered application for resume analysis, job description matching, and ide
 - Enhanced product features and resolved frontend, backend, and API integration issues through testing and debugging.
 - Collaborated using Git and GitHub for code integration, testing, and release-related changes.
 
----
-
 ## 🎯 Current Focus
 
 - Strengthening data structures, algorithms, and problem-solving.
@@ -75,8 +70,6 @@ An AI-powered application for resume analysis, job description matching, and ide
 - Learning Python and practical AI/LLM engineering.
 - Exploring RAG, LLM applications, and AI-powered workflows.
 - Building reliable, maintainable, and well-structured software.
-
----
 
 <p align="center">
   <i>Building useful things, learning through experience, and getting better at the craft.</i>
