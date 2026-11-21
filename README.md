@@ -1,10 +1,12 @@
 # Hi, I'm Samiksha Lone 👋
 
-**Software Engineer | Backend & Full-Stack Development**
+**Software Developer | Backend & Full-Stack Development**
 
-I build web applications with a focus on backend engineering, practical problem-solving, and useful product features. My experience includes developing REST APIs, designing database-backed workflows, implementing authentication and authorization, integrating third-party services, and building AI-powered applications.
+I build practical web applications and AI-powered products, with a focus on backend engineering, full-stack development, and solving real-world problems.
 
-I'm interested in backend systems, scalable application architecture, and practical applications of AI and LLMs.
+My experience includes developing REST APIs, designing database-backed workflows, implementing authentication and authorization, building real-time functionality, integrating third-party services, and developing AI-powered features.
+
+I'm particularly interested in backend systems, scalable application architecture, and practical applications of AI and LLMs.
 
 <p align="left">
   <a href="https://samiksha-lone.vercel.app">Portfolio</a> ·
@@ -12,20 +14,19 @@ I'm interested in backend systems, scalable application architecture, and practi
   <a href="mailto:samikshalone2@gmail.com">Email</a>
 </p>
 
-
 ## 🛠️ Technical Skills
 
-**Languages** — JavaScript · TypeScript · Java · SQL
+**Languages** — JavaScript · TypeScript · Java · SQL · Python
 
 **Frontend** — React · Next.js · Vite · Tailwind CSS · React Router
 
-**Backend & APIs** — Node.js · Express.js · REST APIs · JWT · Socket.IO · Supabase
+**Backend & APIs** — Node.js · Express.js · REST APIs · JWT · Socket.IO · Python · FastAPI
 
-**Databases & AI** — MongoDB · PostgreSQL · MySQL · Google Gemini API · Claude API · LLM Integration
+**Databases** — MongoDB · PostgreSQL · MySQL · Supabase · PostGIS
+
+**AI & Integrations** — Google Gemini API · Claude API · LLM Integration · Prompt Engineering · Razorpay API · MSG91
 
 **Tools & Infrastructure** — Git · GitHub · Docker · Docker Compose · Redis · BullMQ · Prisma · Postman · Vercel · Render
-
-**Integrations** — Razorpay API
 
 ## 🚀 Featured Projects
 
@@ -53,7 +54,7 @@ An AI-powered application for resume analysis, job description matching, and ide
 
 ## 💼 Experience
 
-**Software Developer Intern · Softcadd Technologies**
+**Software Developer Intern · Softcadd Technologies**  
 *November 2025 – November 2026 · Remote*
 
 - Contributed to multiple software projects, developing frontend features with React and TypeScript and implementing backend workflows using Node.js, Express.js, and Supabase.
@@ -67,7 +68,7 @@ An AI-powered application for resume analysis, job description matching, and ide
 
 - Strengthening data structures, algorithms, and problem-solving.
 - Deepening backend engineering and system design knowledge.
-- Learning Python and practical AI/LLM engineering.
+- Improving Python programming skills.
 - Exploring RAG, LLM applications, and AI-powered workflows.
 - Building reliable, maintainable, and well-structured software.
 
